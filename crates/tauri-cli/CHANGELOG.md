@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.10.2]
+
+### Enhancements
+
+- [`8718d0816`](https://www.github.com/tauri-apps/tauri/commit/8718d08163f074dfc53387ebd1d823f9c28280ee) ([#15033](https://www.github.com/tauri-apps/tauri/pull/15033) by [@Legend-Master](https://www.github.com/tauri-apps/tauri/../../Legend-Master)) Show the context before prompting for updater signing key password
+
+### Dependencies
+
+- Upgraded to `tauri-macos-sign@2.3.4`
+- Upgraded to `tauri-bundler@2.8.2`
+
 ## \[2.10.1]
 
 ### Bug Fixes

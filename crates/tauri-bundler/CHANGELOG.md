@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.8.2]
+
+### Dependencies
+
+- Upgraded to `tauri-macos-sign@2.3.4`
+
 ## \[2.8.1]
 
 ### Bug Fixes

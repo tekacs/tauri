@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.11.0]
+
+### New Features
+
+- [`2dd9b15a2`](https://www.github.com/tauri-apps/tauri/commit/2dd9b15a2bcab8e52c87b03a919b4a75567ad3ce) ([#15062](https://www.github.com/tauri-apps/tauri/pull/15062) by [@amrbashir](https://www.github.com/tauri-apps/tauri/../../amrbashir)) Add `data-tauri-drag-region="deep"` so clicks on non-clickable children will drag as well. Can still opt out of drag on some regions using `data-tauri-drag-region="false"`
+
 ## \[2.10.3]
 
 ### Dependencies
